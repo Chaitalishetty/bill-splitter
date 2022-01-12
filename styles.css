@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    background-color: #2b2a2a;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#bill-text{
+    color: white;
+    margin: 20px;
+}
+.form{
+    display: grid;
+    justify-content: center;
+}
+.form input{
+    width: 55vw;
+background-color: white;
+font-size: 20px;
+padding: 10px;
+margin: 20px;
+border: none;
+}
+.btn{
+    width: 40vw;
+    margin: 10px;
+    margin-left: 9vw;
+}
